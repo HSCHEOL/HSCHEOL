@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif"
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="160" height="160">
 </div>
 
 
