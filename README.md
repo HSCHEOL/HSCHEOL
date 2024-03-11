@@ -29,6 +29,7 @@
 </div>
 
 <br>
+<br>
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -43,7 +44,6 @@
   <img src ="https://img.shields.io/badge/Slack-815E7F.svg?&style=for-the-badge&logo=Slack&logoColor=white"/ >&nbsp
 </div>
 
-<br>
 <br>
 <br>
 <br>
