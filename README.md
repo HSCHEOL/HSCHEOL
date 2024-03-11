@@ -7,6 +7,10 @@
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200">
 </div>
 
+<br> 
+<div align="center">
+   <a href="knr0013@gmail.com"><img src="https://img.shields.io/badge/knr0013@gmail.com-F3F3F3?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</div>
 
 ---
 
