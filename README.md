@@ -7,7 +7,7 @@
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif"
 </div>
 
-<br>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -43,9 +43,6 @@
 </div>
 
 
-
-<br>
-<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
 </div>
