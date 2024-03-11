@@ -1,6 +1,6 @@
 <div id="header">
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=250&section=header&text=HSCHEOL%20&fontSize=70" alt="Header Image">
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=HSCHEOL%20&fontSize=70" alt="Header Image">
   </div>
 </div>
 
