@@ -1,8 +1,8 @@
-<div id="header">
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=HSCHEOL%20&fontSize=70" alt="Header Image">
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=150&section=header&text=🔥HSCHEOL🔥%20&fontSize=30" alt="Header Image">
 </div>
+
+<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -32,8 +32,12 @@
 </div>
 
 
-<br>
 
+<br>
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+</div>
 
 
 
