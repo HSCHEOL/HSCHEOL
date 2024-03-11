@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=150&section=header&text=HSCHEOL%20&fontSize=45&adeIn&fontAlignY=36"& adeIn&fontAlignY=36>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=105&section=header&text=HSCHEOL%20&fontSize=25&adeIn&fontAlignY=20"& adeIn&fontAlignY=36>
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif"
