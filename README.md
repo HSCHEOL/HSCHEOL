@@ -9,6 +9,7 @@
 
 
 
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -42,6 +43,14 @@
   <img src ="https://img.shields.io/badge/Slack-815E7F.svg?&style=for-the-badge&logo=Slack&logoColor=white"/ >&nbsp
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=HSCHEOL&show_icons=true&locale=en&theme=tokyonight"/></p>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
