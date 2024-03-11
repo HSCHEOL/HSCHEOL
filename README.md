@@ -8,7 +8,7 @@
 </div>
 
 
-
+---
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
-<br>
-<br>
+
+---
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -44,9 +44,8 @@
   <img src ="https://img.shields.io/badge/Slack-815E7F.svg?&style=for-the-badge&logo=Slack&logoColor=white"/ >&nbsp
 </div>
 
-<br>
-<br>
-<br>
+
+---
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=HSCHEOL&show_icons=true&locale=en&theme=tokyonight"/></p>
