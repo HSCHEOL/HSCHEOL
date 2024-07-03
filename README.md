@@ -3,9 +3,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200">
-</div>
 
 <br>
 <h3 align="center">📞 Contact 📞</h3>
