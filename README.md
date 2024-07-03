@@ -50,6 +50,7 @@
 
 <div align="center">
 <img align="left" src="https://readmestats.999857.xyz/api?username=HSCHEOL&show_icons=true&locale=en&theme=tokyonight"/>
+  <br>
 <a href="https://git.io/streak-stats"><img align='right' src="https://streak-stats.demolab.com?user=HSCHEOL&theme=catppuccin-macchiato" alt="GitHub Streak" /></a>
 </div>
 
