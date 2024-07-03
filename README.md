@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=105&section=header&text=HSCHEOL%20&fontSize=25&adeIn&fontAlignY=20"& adeIn&fontAlignY=36>
 </div>
 
-
-
-<br>
 <h3 align="center">📞 Contact 📞</h3>
 <div align="center">
    <a href="mailto:knr0013@gmail.com""knr0013@gmail.com"><img src="https://img.shields.io/badge/knr0013@gmail.com-F3F3F3?style=for-the-badge&logo=gmail&logoColor=black"/></a>
