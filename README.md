@@ -53,7 +53,7 @@
 
 <div align="center">
 <img align="left" src="https://readmestats.999857.xyz/api?username=HSCHEOL&show_icons=true&locale=en"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HSCHEOL&theme=ocean-gradient&hide_border=true&border_radius=50&mode=weekly&card_width=350" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HSCHEOL&hide_border=true&border_radius=50&mode=weekly&theme=meta-light&card_width=350" alt="GitHub Streak" /></a>
 </div>
 
 
