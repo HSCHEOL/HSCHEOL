@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=105&section=header&text=HSCHEOL%20&fontSize=25&adeIn&fontAlignY=20"& adeIn&fontAlignY=50>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=150&section=header&text=HSCHEOL%20&fontSize=25&adeIn&fontAlignY=20"& adeIn&fontAlignY=36>
 </div>
 <h3 align="center">📞 Contact 📞</h3>
 <div align="center">
