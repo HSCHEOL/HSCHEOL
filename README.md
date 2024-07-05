@@ -4,16 +4,12 @@
 
 ---
 
-<h3 align="center">📞 Contact 📞</h3>
-<div align="center">
-   <a href="mailto:knr0013@gmail.com""knr0013@gmail.com"><img src="https://img.shields.io/badge/knr0013@gmail.com-F3F3F3?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-</div>
-<br>
+
 
 
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h4 align="center">✨ Tech Stack ✨</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -34,7 +30,7 @@
 <br>
 
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h4 align="center">🛠 Tools 🛠</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/git-F7DF1E.svg?style=for-the-badge&logo=git&logoColor=20232a" />&nbsp
