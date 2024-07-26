@@ -1,15 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&animation=twinkling&fontSize=40&text=Welcome%20to%20My%20GitHub%20👋&height=150&section=header&adeIn&fontAlignY=50"& adeIn&fontAlignY=50>
+ <!-- <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&animation=twinkling&fontSize=40&text=Welcome%20to%20My%20GitHub%20👋&height=150&section=header&adeIn&fontAlignY=50"& adeIn&fontAlignY=50> -->
+  <img src="https://github.com/user-attachments/assets/ad39556a-d83c-4223-ad43-f50f3f84bdad" alt="soulja-boy-pepe" width="200" /> <br>
+  <h3>🔥</h3>
 </div>
 
 ---
 
 
 
+<h4 align="center">Main.</h4>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d8e72d97-1834-4571-8264-57054f0a4eca" alt="JavaScript Logo" width="80" /></td>
+      <td><img src="https://github.com/user-attachments/assets/65b9cc14-b043-4645-833e-e019bec185e4" alt="TypeScript Logo" width="100" /></td>
+      <td><img src="https://github.com/user-attachments/assets/d89a5a21-a52f-4be2-81ba-3a91191c2c3f" alt="React Logo" width="80" /></td>
+      <td><img src="https://github.com/user-attachments/assets/1da156db-3730-4ac5-88a5-b3af431d8d54" alt="Node.js Logo" width="90" /></td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 
 <!--내용 부분-->
-<h4 align="center">✨ Tech Stack ✨</h4>
+<!--<h4 align="center">✨ Tech Stack ✨</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -44,12 +60,12 @@
 
 
 
-
----
+-->
+<br>
 
 <div align="center">
-<img align="left" src="https://readmestats.999857.xyz/api?username=HSCHEOL&show_icons=true&locale=en& "/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HSCHEOL&hide_border=true&border_radius=50&mode=weekly&theme=ocean-gradient&card_width=350" alt="GitHub Streak" /></a>
+<img src="https://readmestats.999857.xyz/api?username=HSCHEOL&show_icons=true&locale=en& "/>
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HSCHEOL&hide_border=true&border_radius=50&mode=weekly&theme=ocean-gradient&card_width=350" alt="GitHub Streak" /></a>-->
 </div>
 
 
