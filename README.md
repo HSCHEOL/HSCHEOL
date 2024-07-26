@@ -1,5 +1,5 @@
 <div align="center">
- <!-- <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&animation=twinkling&fontSize=40&text=Welcome%20to%20My%20GitHub%20👋&height=150&section=header&adeIn&fontAlignY=50"& adeIn&fontAlignY=50> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontSize=40&height=100&section=header&adeIn&fontAlignY=50"& adeIn&fontAlignY=50> 
   <img src="https://github.com/user-attachments/assets/ad39556a-d83c-4223-ad43-f50f3f84bdad" alt="soulja-boy-pepe" width="200" /> <br>
   <h3>🔥</h3>
 </div>
@@ -69,7 +69,7 @@
 </div>
 
 
-
+---
 
 
 
