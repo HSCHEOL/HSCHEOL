@@ -1,6 +1,7 @@
----
-
 <div align="center">
+
+  
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=HSCHEOL&fontSize=45&textBg=false&fontColor=black&fontAlign=50&fontAlignY=30&animation=twinkling)
   <img src="https://github.com/user-attachments/assets/ad39556a-d83c-4223-ad43-f50f3f84bdad" alt="soulja-boy-pepe" width="180" /> <br>
 
 </div>
