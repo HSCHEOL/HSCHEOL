@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontSize=40&height=100&section=header&adeIn&fontAlignY=50"& adeIn&fontAlignY=50> 
   <img src="https://github.com/user-attachments/assets/ad39556a-d83c-4223-ad43-f50f3f84bdad" alt="soulja-boy-pepe" width="180" /> <br>
   <h3>🔥🔥🔥🔥</h3>
 </div>
 
+
+
 ---
-
-
 
 <h4 align="center">Main.</h4>
 <div align="center">
@@ -16,12 +15,25 @@
       <td><img src="https://github.com/user-attachments/assets/65b9cc14-b043-4645-833e-e019bec185e4" alt="TypeScript Logo" width="100" /></td>
       <td><img src="https://github.com/user-attachments/assets/d89a5a21-a52f-4be2-81ba-3a91191c2c3f" alt="React Logo" width="80" /></td>
       <td><img src="https://github.com/user-attachments/assets/1da156db-3730-4ac5-88a5-b3af431d8d54" alt="Node.js Logo" width="90" /></td>
+      </tr>
+  </table>
+  
+</div>
+
+<h4 align="center">Tool.</h4>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/1bb3bc18-c412-459a-b611-164e7c65368d" alt="github Logo" width="75" /></td>
+       <td><img src="https://github.com/user-attachments/assets/793c7ecb-fc54-43ee-b492-de1997f232c2" alt="Notion Logo" width="80" /></td>
+      <td><img src="https://github.com/user-attachments/assets/3df9b58f-1680-4dc7-935a-5c4d4fbeb554" alt="figma Logo" width="75" /></td>
+     <td><img src="https://github.com/user-attachments/assets/39e0e222-8b14-4e96-89a0-14d16c0435ed" alt="Slack Logo" width="70" /></td>
     </tr>
   </table>
 </div>
 
 
-
+---
 
 
 <!--내용 부분-->
