@@ -1,3 +1,5 @@
+---
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ad39556a-d83c-4223-ad43-f50f3f84bdad" alt="soulja-boy-pepe" width="180" /> <br>
 
@@ -32,7 +34,7 @@
   </table>
 </div>
 
-
+---
 
 
 
@@ -80,7 +82,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HSCHEOL&hide_border=true&border_radius=50&mode=weekly&theme=ocean-gradient&card_width=350" alt="GitHub Streak" /></a>
 </div>
 
--->
+
 
 
 
