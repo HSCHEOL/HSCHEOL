@@ -9,7 +9,7 @@
 
 
 
-<h4 align="center">Main.</h4>
+<h4 align="center">Main Tech.</h4>
 <div align="center">
   <table>
     <tr>
