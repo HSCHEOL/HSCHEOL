@@ -26,10 +26,10 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/1bb3bc18-c412-459a-b611-164e7c65368d" alt="github Logo" width="75" /></td>
-       <td><img src="https://github.com/user-attachments/assets/793c7ecb-fc54-43ee-b492-de1997f232c2" alt="Notion Logo" width="80" /></td>
-      <td><img src="https://github.com/user-attachments/assets/3df9b58f-1680-4dc7-935a-5c4d4fbeb554" alt="figma Logo" width="75" /></td>
-     <td><img src="https://github.com/user-attachments/assets/39e0e222-8b14-4e96-89a0-14d16c0435ed" alt="Slack Logo" width="70" /></td>
+      <td><img src="https://github.com/user-attachments/assets/39e0e222-8b14-4e96-89a0-14d16c0435ed" alt="Slack Logo" width="80" /></td>
+       <td><img src="https://github.com/user-attachments/assets/793c7ecb-fc54-43ee-b492-de1997f232c2" alt="Notion Logo" width="100" /></td>
+      <td><img src="https://github.com/user-attachments/assets/3df9b58f-1680-4dc7-935a-5c4d4fbeb554" alt="figma Logo" width="90" /></td>
+     <td><img src="https://github.com/user-attachments/assets/1bb3bc18-c412-459a-b611-164e7c65368d" alt="github Logo" width="80" /></td>
     </tr>
   </table>
 </div>
