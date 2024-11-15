@@ -17,7 +17,7 @@
       <td><img src="https://github.com/user-attachments/assets/d8e72d97-1834-4571-8264-57054f0a4eca" alt="JavaScript Logo" width="80" /></td>
       <td><img src="https://github.com/user-attachments/assets/65b9cc14-b043-4645-833e-e019bec185e4" alt="TypeScript Logo" width="100" /></td>
       <td><img src="https://github.com/user-attachments/assets/d89a5a21-a52f-4be2-81ba-3a91191c2c3f" alt="React Logo" width="80" /></td>
-      <td><img src="https://github.com/user-attachments/assets/1da156db-3730-4ac5-88a5-b3af431d8d54" alt="Node.js Logo" width="90" /></td>
+      <td><img src="https://i.namu.wiki/i/BPDVQJYdG27Ad9rzdCjFXZhxY1fcbT-1FfyWaF_ZtrN6Qs8-9RrBSLMyUaoy2HzXwbivZ4WgAtjWXGIQyIM1-abciTFhSPDRbmXza4JULHwG1P6KOdismX5d_GM6IugdhixoRgEspYGgeUkxsdjnAg.svg" alt="Node.js Logo" width="80" /></td>
       </tr>
   </table>
   
