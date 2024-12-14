@@ -14,11 +14,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/d8e72d97-1834-4571-8264-57054f0a4eca" alt="JavaScript Logo" width="80" /></td>
+<!--       <td><img src="https://github.com/user-attachments/assets/d8e72d97-1834-4571-8264-57054f0a4eca" alt="JavaScript Logo" width="80" /></td> -->
       <td><img src="https://github.com/user-attachments/assets/65b9cc14-b043-4645-833e-e019bec185e4" alt="TypeScript Logo" width="100" /></td>
       <td><img src="https://github.com/user-attachments/assets/d89a5a21-a52f-4be2-81ba-3a91191c2c3f" alt="React Logo" width="75" /></td>
       <td><img src="https://github.com/user-attachments/assets/21b4c33d-e99e-48e0-9d0e-e2bd9067735b" alt="Next Logo" width="75" /></td>
-      <td><img src="https://i.namu.wiki/i/BPDVQJYdG27Ad9rzdCjFXZhxY1fcbT-1FfyWaF_ZtrN6Qs8-9RrBSLMyUaoy2HzXwbivZ4WgAtjWXGIQyIM1-abciTFhSPDRbmXza4JULHwG1P6KOdismX5d_GM6IugdhixoRgEspYGgeUkxsdjnAg.svg" alt="Nest Logo" width="75" /></td>
+      <td><img src="https://i.namu.wiki/i/iRetiHoGMxUVEf-1KKj8vkWghxKUJkMkY8C51kTjXxwEuVA2TEUNUYfUQfQVPbVZY1jh1XNaRcH90I5lDuaPG-awD4a5bY7i56N4H-U3Q2niJuXInookRDIZlDEqa2RTnG6uWfLiTpltKmrgYKJP2g.svg" alt="Nest Logo" width="75" /></td>
       </tr>
   </table>
 
