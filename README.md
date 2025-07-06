@@ -18,7 +18,7 @@
       <td><img src="https://github.com/user-attachments/assets/65b9cc14-b043-4645-833e-e019bec185e4" alt="TypeScript Logo" width="100" /></td>
       <td><img src="https://github.com/user-attachments/assets/d89a5a21-a52f-4be2-81ba-3a91191c2c3f" alt="React Logo" width="75" /></td>
       <td><img src="https://github.com/user-attachments/assets/21b4c33d-e99e-48e0-9d0e-e2bd9067735b" alt="Next Logo" width="75" /></td>
-      <td><img src="https://i.namu.wiki/i/aVSB3vqSR1dEclo7FL2ia3OYaKpC9iczMqh_cTDOWSXeUvRLrKA0DeXkzybIrlY2kcrAGq7fnI_nw23tmKNOJ6Aavp4fx9wIUW28KzLptIR25ovoyZBJRGbwNXJX_VP-WRJY8XX76ssn_WBQ2LRApA.svg" alt="Nest Logo" width="75" /></td>
+<!--       <td><img src="https://i.namu.wiki/i/aVSB3vqSR1dEclo7FL2ia3OYaKpC9iczMqh_cTDOWSXeUvRLrKA0DeXkzybIrlY2kcrAGq7fnI_nw23tmKNOJ6Aavp4fx9wIUW28KzLptIR25ovoyZBJRGbwNXJX_VP-WRJY8XX76ssn_WBQ2LRApA.svg" alt="Nest Logo" width="75" /></td> -->
       </tr>
   </table>
 
